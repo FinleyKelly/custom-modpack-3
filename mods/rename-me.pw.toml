@@ -1,0 +1,13 @@
+name = "RenameMe"
+filename = "rename_me-1.0.0-neoforge-1.21.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/YJumdiYe/versions/3tMrVh37/rename_me-1.0.0-neoforge-1.21.1.jar"
+hash-format = "sha512"
+hash = "8eb477335cce3d05f2cdc7b53de14e31b5addaf41248f47d31f81ea61394ee41619fc2a785a73fdee97b72af5b804ccc4217566f39148279dfc827fc7d77c9e4"
+
+[update]
+[update.modrinth]
+mod-id = "YJumdiYe"
+version = "3tMrVh37"

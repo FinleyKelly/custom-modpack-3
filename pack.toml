@@ -1,0 +1,13 @@
+name = "Custom Modpack 2"
+author = "Fern"
+version = "1.0.0"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "6adfc788f47aaf7f726cefc0bf514877cd3ad0b832a43414082b5166d90c950a"
+
+[versions]
+minecraft = "1.21.1"
+neoforge = "21.1.228"
