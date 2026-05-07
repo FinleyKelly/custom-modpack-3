@@ -326,6 +326,11 @@ hash = "8d5ce8563d3ec96355ae4a3b1b5e6c9df02db833b12bdf7da5ba6322eaac20a4"
 metafile = true
 
 [[files]]
+file = "mods/reeses-sodium-options.pw.toml"
+hash = "09306b955060349986ccf6a6d2a67f1e019fa172a7dc690dd6007f81c966309a"
+metafile = true
+
+[[files]]
 file = "mods/regions-unexplored.pw.toml"
 hash = "445e184eb1e96afc24eef5a79c0f67519fa9908f537057c94529c59220f1c26e"
 metafile = true
