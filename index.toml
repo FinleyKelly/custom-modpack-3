@@ -41,6 +41,11 @@ hash = "c5e47d922e39c1556dc2e8c94bfe852cf16de14f65b99eb3e054e41745dddad0"
 metafile = true
 
 [[files]]
+file = "mods/carryon-aeronautics-compat.pw.toml"
+hash = "5c891436034d6663dc0c2eab6b44c46380556dea10f0bee35f9088ef6c0ecc9e"
+metafile = true
+
+[[files]]
 file = "mods/cc-sable.pw.toml"
 hash = "2246c742ee8061b1be6ca50cdc9704b4859215cc9e0eb65b52495079003897c7"
 metafile = true
