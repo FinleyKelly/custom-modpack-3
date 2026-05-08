@@ -31,6 +31,11 @@ hash = "ca4fdebf931acb8578216209bcc396cdfe7d804231f8048794eba5104df30f56"
 metafile = true
 
 [[files]]
+file = "mods/baguettelib.pw.toml"
+hash = "762fcd212e5049e6e8dcece301c4f33a17d3fc9b00744301c52c4695d7015523"
+metafile = true
+
+[[files]]
 file = "mods/balm.pw.toml"
 hash = "9121b274bd87552ae976983d9bdd56061274c126a4a1b7b2e13605b1a1ec0599"
 metafile = true
@@ -291,6 +296,11 @@ hash = "6c600fe7b0789b7501968f57bb33b526e8c711dc6305f64b406abccfbdb971d5"
 metafile = true
 
 [[files]]
+file = "mods/modonomicon.pw.toml"
+hash = "90e374f5744d552d2a14d8dec41247810c0ef9994d958f9a57d359bb03103115"
+metafile = true
+
+[[files]]
 file = "mods/modopedia.pw.toml"
 hash = "e2c7bb4803def8211db5d07c3adca4d0e8877e1a9590174e972cbd0f05fc116b"
 metafile = true
@@ -328,6 +338,21 @@ metafile = true
 [[files]]
 file = "mods/not-enough-animations.pw.toml"
 hash = "44dde164b3d9e130a8d8dd6ff84bfcc936825465b966a06c7358f0ddf3660fd0"
+metafile = true
+
+[[files]]
+file = "mods/occult-engineering.pw.toml"
+hash = "3a5457ce296b4af0a4f40633eb8dab6674dea941efbadf9f6f5ba494d4cef06c"
+metafile = true
+
+[[files]]
+file = "mods/occultism.pw.toml"
+hash = "669ff73fc0b07ae941adfd1a8eae3597e493c48cea222195c99d3b7a7dc7096b"
+metafile = true
+
+[[files]]
+file = "mods/pagans-blessing.pw.toml"
+hash = "6ae490e8011d661b7adbb7831df524f9b3abe0a8be41147302b1813e61d1a357"
 metafile = true
 
 [[files]]
@@ -388,6 +413,11 @@ metafile = true
 [[files]]
 file = "mods/searchables.pw.toml"
 hash = "ce9ddada6ffd55a512149cc474c6a453281a997a5fdf1b7b4a2cc73f875e704a"
+metafile = true
+
+[[files]]
+file = "mods/smartbrainlib.pw.toml"
+hash = "27c6365bdc19eff05f3231bff86a4f09b2d584fed40de92d67c00b4cbd52862a"
 metafile = true
 
 [[files]]

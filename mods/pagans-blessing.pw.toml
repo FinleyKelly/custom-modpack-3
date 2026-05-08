@@ -1,0 +1,13 @@
+name = "Pagans Blessing"
+filename = "paganbless-0.2.4.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/ajtQcgfO/versions/Yt4RDSyW/paganbless-0.2.4.jar"
+hash-format = "sha512"
+hash = "8c0d58570a1e6ac6d27c9e7ce25eea68d90484ee5164ce6b90b698fd80ab5dc2f2c3117f0fdfaf568409c974fb7e776a89949c2ed75e63efd7c3e72e9ecf384b"
+
+[update]
+[update.modrinth]
+mod-id = "ajtQcgfO"
+version = "Yt4RDSyW"
