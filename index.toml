@@ -391,6 +391,11 @@ hash = "669ff73fc0b07ae941adfd1a8eae3597e493c48cea222195c99d3b7a7dc7096b"
 metafile = true
 
 [[files]]
+file = "mods/oneclickoneblock.pw.toml"
+hash = "19d5669b40fdccad2df4ced660f9949e03e795237e0a5f0677ab48abaed9bbc3"
+metafile = true
+
+[[files]]
 file = "mods/pagans-blessing.pw.toml"
 hash = "6ae490e8011d661b7adbb7831df524f9b3abe0a8be41147302b1813e61d1a357"
 metafile = true

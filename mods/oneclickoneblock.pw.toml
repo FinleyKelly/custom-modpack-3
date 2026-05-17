@@ -1,0 +1,13 @@
+name = "One Click One Block (1C1B)"
+filename = "oneclickoneblock-neoforge-1.21.1-1.0.3.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/kuRp6C26/versions/ElpC3j3X/oneclickoneblock-neoforge-1.21.1-1.0.3.jar"
+hash-format = "sha512"
+hash = "96ef9ece34708f1621b8edee3f1fbf9734c88a305c8189d3ca584c07b1e11fbeed7a968434d3e8e1e86ef3f74fc480e4ac14d8a17a81183c54d0c207efc62db4"
+
+[update]
+[update.modrinth]
+mod-id = "kuRp6C26"
+version = "ElpC3j3X"
