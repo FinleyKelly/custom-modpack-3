@@ -1,0 +1,13 @@
+name = "InWitched"
+filename = "InWitched_NeoForge_Release_1.21.1_V2.7.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "1a2300c0ef62b686177d6429061be3563e7857ce"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 7698939
+project-id = 822940

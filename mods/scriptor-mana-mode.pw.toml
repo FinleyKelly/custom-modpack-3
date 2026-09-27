@@ -1,0 +1,13 @@
+name = "Scriptor: Mana Mode"
+filename = "scriptor_mana-neoforge-1.0.0.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/W8OWzMY0/versions/AUS0UoiJ/scriptor_mana-neoforge-1.0.0.jar"
+hash-format = "sha512"
+hash = "91926f09ed27482d7a1f624a1b645b8e00f3eb758cf26828137a8099564727c5f582d1456331a9e380e5efd673541575281a684c5981c5864a3260e45bc57bc5"
+
+[update]
+[update.modrinth]
+mod-id = "W8OWzMY0"
+version = "AUS0UoiJ"

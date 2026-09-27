@@ -1,4 +1,4 @@
-name = "Custom Modpack 2"
+name = "Custom Modpack 3"
 author = "Fern"
 version = "1.0.0"
 pack-format = "packwiz:1.1.0"
@@ -6,8 +6,8 @@ pack-format = "packwiz:1.1.0"
 [index]
 file = "index.toml"
 hash-format = "sha256"
-hash = "2f0039695aad878ee0b0616dbc5d96f8648a66b7a2e035135797cf58b3d596ba"
+hash = "81ae347134b5a46eb922545a0d6e5ced4062b03c99ae7a5eec58be113193d4e5"
 
 [versions]
 minecraft = "1.21.1"
-neoforge = "21.1.228"
+neoforge = "21.1.251"

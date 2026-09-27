@@ -1,0 +1,13 @@
+name = "Alchimiae Magicae"
+filename = "alchimiae-neoforge-0.3.10-1.21.1-sgd.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/qUKJfi7E/versions/WYb0rSke/alchimiae-neoforge-0.3.10-1.21.1-sgd.jar"
+hash-format = "sha512"
+hash = "ba79c26c78cc8db2ae8683eb448acc20f2e9171c9ca748bee69addf16a3c33d0187ad6988f950892168f81980a241076853232b4265e08821ef5cc4e282fbcf0"
+
+[update]
+[update.modrinth]
+mod-id = "qUKJfi7E"
+version = "WYb0rSke"

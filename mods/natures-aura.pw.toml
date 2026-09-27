@@ -1,13 +1,13 @@
 name = "Nature's Aura"
-filename = "NaturesAura-41.9.jar"
+filename = "NaturesAura-41.10.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/4cJkN3aF/versions/MOS9yScP/NaturesAura-41.9.jar"
+url = "https://cdn.modrinth.com/data/4cJkN3aF/versions/kJ1hHmK0/NaturesAura-41.10.jar"
 hash-format = "sha512"
-hash = "d4653582b1e0c7f3dc633be74b14295c77e3738fc608ddfd582cb980d63e13af9249ef49d08abca21bc5a1ddaab4ad55dc66cfaa66747dbf6722f7b9824dff4b"
+hash = "2971065208401b8c138978e556a7081f4e9f97c97618afa77e6d6e7e740324d731bdc35b94914fc531e4f27911c423d52062870017861cebb2deff3bc80f0e15"
 
 [update]
 [update.modrinth]
 mod-id = "4cJkN3aF"
-version = "MOS9yScP"
+version = "kJ1hHmK0"
