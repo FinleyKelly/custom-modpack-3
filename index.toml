@@ -641,6 +641,11 @@ hash = "ce9ddada6ffd55a512149cc474c6a453281a997a5fdf1b7b4a2cc73f875e704a"
 metafile = true
 
 [[files]]
+file = "mods/simple-nicknames.pw.toml"
+hash = "1b3843d7ce0156b634c5b3c34fe48219be4e6c736e4b7039d8cb968cbbbad101"
+metafile = true
+
+[[files]]
 file = "mods/skills.pw.toml"
 hash = "1c42d0d46b5325d7c372926d2265f19c0d46a7222b0181596fa8b2ac74e7f126"
 metafile = true
