@@ -1,0 +1,13 @@
+name = "MoreArsnouveau"
+filename = "morearsnouveau-1.0.0.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "c79adb40f7f88150a6ddca5d363901c6ef6ed0f6"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 8189862
+project-id = 1563360

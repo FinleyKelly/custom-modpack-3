@@ -76,6 +76,11 @@ hash = "08f46822b355882721807489cbf64a7e8ac03efc1476136e60acbc8dd7dc2880"
 metafile = true
 
 [[files]]
+file = "mods/ars-controle.pw.toml"
+hash = "1dc7877ebc378ee58a9286a4da56e10060f34113d3a5f40e56cbed779b31ac49"
+metafile = true
+
+[[files]]
 file = "mods/ars-elemental.pw.toml"
 hash = "2dedbdaea212fc6b7327eb46b9d6ced3597aa0920ba1df19950a79ed408c5178"
 metafile = true
@@ -473,6 +478,11 @@ metafile = true
 [[files]]
 file = "mods/moonlight.pw.toml"
 hash = "bdb50204369d9b6d8b5dbd7659795e443be6508448bf937e4f866c037842d09f"
+metafile = true
+
+[[files]]
+file = "mods/morearsnouveau.pw.toml"
+hash = "6b9df01e43c60dea4a0e40c0696baf0c418f3541c883fd09fa2ffd3cbb9ef599"
 metafile = true
 
 [[files]]
