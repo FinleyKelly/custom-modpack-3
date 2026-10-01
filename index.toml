@@ -266,6 +266,11 @@ hash = "9f96f136c61af30a45a3c85588d8906ae8031b58316ae70d16930c01fd211ed6"
 metafile = true
 
 [[files]]
+file = "mods/easy-villagers.pw.toml"
+hash = "d629988991e4e0c461a5031b8c774c184ef409f5b57187211c3abe5b1a21fc3c"
+metafile = true
+
+[[files]]
 file = "mods/enchanted-witchcraft.pw.toml"
 hash = "5d000173a47091192a2508d51c7b7b218c0352dbbd84118e25303943e544b832"
 metafile = true
